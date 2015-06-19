@@ -34,7 +34,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // ParseCrashReporting.enable()
         //
          //Uncomment and fill in with your Parse credentials:
-        Parse.setApplicationId("enter your application id here",
+        Parse.setApplicationId("enter your applicatin id here",
         clientKey: "enter your client key here")
         //
         // If you are using Facebook, uncomment and add your FacebookAppID to your bundle's plist as
