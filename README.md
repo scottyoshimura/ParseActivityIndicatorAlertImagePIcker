@@ -1,2 +1,2 @@
 # ParseActivityIndicatorAlertImagePIcker
-a Parse starter app with Activity Indicator, Alert, and image picker
+a Parse starter app for data. you must use your own appid and clientkey.
