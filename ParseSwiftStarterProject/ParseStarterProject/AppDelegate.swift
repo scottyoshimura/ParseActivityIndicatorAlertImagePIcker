@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     //--------------------------------------
     // MARK: - UIApplicationDelegate
     //--------------------------------------
-
+////
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Enable storing and querying data from Local Datastore. 
         // Remove this line if you don't want to use Local Datastore features or want to use cachePolicy.
