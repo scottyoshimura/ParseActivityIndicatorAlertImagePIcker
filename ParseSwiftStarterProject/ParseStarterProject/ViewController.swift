@@ -10,10 +10,6 @@
 import UIKit
 import Parse
 
-//lets create teh activity indicator with a type of UIActivityIndicatorView, we will create an empty one and use it later
-var activityIndicator:UIActivityIndicatorView = UIActivityIndicatorView()
-
-//lets add the uinavigationcontroller class to help us navigate to a different app like photostream or camera and back again. we also uiimagepicker controllerdelegate class
 class ViewController: UIViewController, UINavigationControllerDelegate {
     
     
