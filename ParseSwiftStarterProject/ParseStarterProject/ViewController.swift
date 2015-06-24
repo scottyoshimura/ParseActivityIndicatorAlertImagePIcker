@@ -5,7 +5,6 @@
 //  we can think of parse as an online database store. it is saving objects. we can upload our variables and objects and then download them later on to use on the same device or a different device.
 //we can store a variety of things in parse including variables, arrays, dictionaries, files, boolean variables.
 
-//we will also set up some spinners and alerts. we will use an activity indicator for the spinner
 
 import UIKit
 import Parse
